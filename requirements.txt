@@ -1,0 +1,6 @@
+ppadb
+pillow
+opencv-python
+ultralytics
+numpy
+python-dotenv
